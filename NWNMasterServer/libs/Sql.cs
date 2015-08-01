@@ -77,12 +77,12 @@ namespace NWNMasterServer.libs
 
                 using (OdbcCommand dbcmd = odbc.CreateCommand()) {
                     // Query
-                    String query = "SELECT COUNT(username) as exists FROM accounts WHERE username='" + username + "'";
+                    String query = "SELECT COUNT(username) as acc_exists FROM " + TABLE_ACCOUNTS + " WHERE username='" + username + "'";
                     dbcmd.CommandText = query;
 
                     using (OdbcDataReader dbreader = dbcmd.ExecuteReader()) {
                         while(dbreader.Read()){
-                            if ((int)dbreader["exists"] == 1)
+                            if ((int)dbreader["acc_exists"] == 1)
                                 exists = true;
                         }
 
