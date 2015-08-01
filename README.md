@@ -9,7 +9,7 @@ Descrizione
 Il programma è un riampiazzo del master server di bioware per la gestione degli accounts,
 scaricare il sorgente e compilarlo con visual studio 2012 (nella cartella bin/debug è presente un eseguibile gia pronto per l'uso)
 
-Il programma va installato come servizio di windows, usando l'utility di installazione locata in <PATH-WINDOWS-DIR>/Microsoft.NET/Framework/v4030319/InstallUtil.exe <Path-eseguibile-server> (Framework64 in caso di sistemi a 64 bit)
+Il programma va installato come servizio di windows, usando l'utility di installazione locata in <PATH-WINDOWS-DIR>/Microsoft.NET/Framework/v4.0.30319/InstallUtil.exe <Path-eseguibile-server> (Framework64 in caso di sistemi a 64 bit)
 
 Il programma necessita di una odbc di sistema chiamata "nwn_master_server" che punta al database dove salvare e prelevare gli accounts (possibilmente il database che viene utilizzato dal vostro server di nwn tramite nwnx).
 
