@@ -1,0 +1,13 @@
+﻿Installazione dell'assembly 'C:\Users\Spider\Documents\Visual Studio 2012\Projects\NWNMasterServer\NWNMasterServer\bin\Debug\NWNMasterServer.exe' in corso...
+I parametri interessati sono:
+   logtoconsole = 
+   assemblypath = C:\Users\Spider\Documents\Visual Studio 2012\Projects\NWNMasterServer\NWNMasterServer\bin\Debug\NWNMasterServer.exe
+   logfile = C:\Users\Spider\Documents\Visual Studio 2012\Projects\NWNMasterServer\NWNMasterServer\bin\Debug\NWNMasterServer.InstallLog
+Installazione del servizio nwnmastersrv in corso...
+Installazione di nwnmastersrv completata.
+È in corso la creazione dell'origine di EventLog nwnmastersrv nel log Application...
+Commit dell'assembly 'C:\Users\Spider\Documents\Visual Studio 2012\Projects\NWNMasterServer\NWNMasterServer\bin\Debug\NWNMasterServer.exe' in corso...
+I parametri interessati sono:
+   logtoconsole = 
+   assemblypath = C:\Users\Spider\Documents\Visual Studio 2012\Projects\NWNMasterServer\NWNMasterServer\bin\Debug\NWNMasterServer.exe
+   logfile = C:\Users\Spider\Documents\Visual Studio 2012\Projects\NWNMasterServer\NWNMasterServer\bin\Debug\NWNMasterServer.InstallLog

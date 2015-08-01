@@ -1,0 +1,8 @@
+C:\Users\Spider\Documents\Visual Studio 2012\Projects\NWNMasterServer\NWNMasterServer\bin\Debug\NWNMasterServer.exe
+C:\Users\Spider\Documents\Visual Studio 2012\Projects\NWNMasterServer\NWNMasterServer\bin\Debug\NWNMasterServer.pdb
+C:\Users\Spider\Documents\Visual Studio 2012\Projects\NWNMasterServer\NWNMasterServer\obj\Debug\NWNMasterServer.csprojResolveAssemblyReference.cache
+C:\Users\Spider\Documents\Visual Studio 2012\Projects\NWNMasterServer\NWNMasterServer\obj\Debug\NWNMasterServer.ProjectInstaller.resources
+C:\Users\Spider\Documents\Visual Studio 2012\Projects\NWNMasterServer\NWNMasterServer\obj\Debug\NWNMasterServer.nwnmastersrv.resources
+C:\Users\Spider\Documents\Visual Studio 2012\Projects\NWNMasterServer\NWNMasterServer\obj\Debug\NWNMasterServer.csproj.GenerateResource.Cache
+C:\Users\Spider\Documents\Visual Studio 2012\Projects\NWNMasterServer\NWNMasterServer\obj\Debug\NWNMasterServer.exe
+C:\Users\Spider\Documents\Visual Studio 2012\Projects\NWNMasterServer\NWNMasterServer\obj\Debug\NWNMasterServer.pdb
