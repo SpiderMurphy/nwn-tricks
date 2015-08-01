@@ -1,4 +1,4 @@
-﻿//Copyright (C) 2015  Vincenzo Caleca (Spider Murpphy)
+﻿//Copyright (C) 2015  Vincenzo Caleca (Spider Murphy)
 
 //This program is free software; you can redistribute it and/or
 //modify it under the terms of the GNU General Public License
@@ -314,7 +314,7 @@ namespace NWNMasterServer
 
                 //String chall = GetServerChallenge(salt);
                 // Password hash
-                UInt16 auth = 1;
+                UInt16 auth = 0;
 
                 // Errore SQL
                 String sqlerror = "";
@@ -329,6 +329,8 @@ namespace NWNMasterServer
                     // Esegue autenticazione
                     if (db.DoAuthUsername(username, Encoding.UTF8.GetString(hash), salt, out sqlerror))
                         auth = 0;
+                    else
+                        auth = 1;
                 }
 
 
